@@ -1,0 +1,48 @@
+
+@font-face {
+  font-display: swap;
+  src: url("https://github.com/kingofspartacus/fonts/blob/master/SegoeUI-Light.woff?raw=true") format("woff"), url("https://github.com/kingofspartacus/fonts/blob/master/SegoeUI-Light.woff?raw=true2") format("woff2");
+  font-family: "SegoeUI";
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-display: swap;
+  src: url("https://github.com/kingofspartacus/fonts/blob/master/SegoeUI.woff?raw=true") format("woff"), url("https://github.com/kingofspartacus/fonts/blob/master/SegoeUI.woff?raw=true2") format("woff2");
+  font-family: "SegoeUI";
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-display: swap;
+  src: url("https://github.com/kingofspartacus/fonts/blob/master/SegoeUI-Italic.woff?raw=true") format("woff"), url("https://github.com/kingofspartacus/fonts/blob/master/SegoeUI-Italic.woff?raw=true2") format("woff2");
+  font-family: "SegoeUI";
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-display: swap;
+  src: url("https://github.com/kingofspartacus/fonts/blob/master/SegoeUI-SemiBold.woff?raw=true") format("woff"), url("https://github.com/kingofspartacus/fonts/blob/master/SegoeUI-SemiBold.woff?raw=true2") format("woff2");
+  font-family: "SegoeUI";
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-display: swap;
+  src: url("https://github.com/kingofspartacus/fonts/blob/master/SegoeUI-Bold.woff?raw=true") format("woff"), url("https://github.com/kingofspartacus/fonts/blob/master/SegoeUI-Bold.woff?raw=true2") format("woff2");
+  font-family: "SegoeUI";
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-display: swap;
+  src: url("https://github.com/kingofspartacus/fonts/blob/master/SegoeUI-BoldItalic.woff?raw=true") format("woff"), url("https://github.com/kingofspartacus/fonts/blob/master/SegoeUI-BoldItalic.woff?raw=true2") format("woff2");
+  font-family: "SegoeUI";
+  font-style: italic;
+  font-weight: 700;
+}
